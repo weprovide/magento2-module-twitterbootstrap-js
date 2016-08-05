@@ -5,8 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Tim Neutkens",
-            "email": "tim@weprovide.com"
+            "name": "Tim Neutkens"
         }
     ],
     "require": {
