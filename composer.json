@@ -1,0 +1,20 @@
+{
+    "name": "timneutkens/magento2-module-twitterbootstrap-js",
+    "description": "Add Twitter Bootstrap javascript from CDN as a require.js module shim. With fallback to local version.",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Neutkens",
+            "email": "tim@weprovide.com"
+        }
+    ],
+    "require": {
+        "magento/framework": "^100.0.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
