@@ -18,6 +18,8 @@ will install the latest version. If you want a specific Twitter Bootstrap versio
 
 ## Usage
 
+For usage examples see the [Twitter Bootstrap website](http://getbootstrap.com/javascript/)
+
 ```javascript
 require(['jquery', 'jquery.bootstrap'], function ($) {
   $('.element').carousel()
