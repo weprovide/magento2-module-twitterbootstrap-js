@@ -4,7 +4,7 @@ Add Twitter Bootstrap javascript from CDN as a require.js module shim. With fall
 
 ## Installation
 
-1. `composer require timneutkens/magento2-module-twitterbootstrap-js`  
+1. `composer require weprovide/magento2-module-twitterbootstrap-js`  
 will install the latest version. If you want a specific Twitter Bootstrap version you can use this:  
 `composer require timneutkens/magento2-module-twitterbootstrap-js:<version here>`
 
