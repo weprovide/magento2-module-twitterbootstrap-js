@@ -8,9 +8,6 @@
             "name": "Tim Neutkens"
         }
     ],
-    "require": {
-        "magento/framework": "^100.0.0"
-    },
     "autoload": {
         "files": [
             "registration.php"
